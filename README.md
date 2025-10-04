@@ -65,7 +65,10 @@ The dataset used for this project was downloaded from [Kaggle](https://www.kaggl
 - Churn rate by gender, geography, and other factors visualized through bar and pie charts.
 
 ### Screenshots:
-![Screenshot 1](./Screenshot%20(1595).png)
-![Screenshot 2](./Screenshot%20(1596).png)
+<img width="1160" height="484" alt="Screenshot (328)" src="https://github.com/user-attachments/assets/b5460d8b-976b-46b1-b12f-db50c0e83b62" />
+
+<img width="1166" height="489" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/43835f49-fb1f-4a97-8f2e-4262f25a5c41" />
+
+<img width="1167" height="487" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/ea931ebe-3404-4368-a999-c8ba8c75b726" />
 
 ---
