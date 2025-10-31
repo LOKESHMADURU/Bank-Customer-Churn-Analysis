@@ -129,6 +129,7 @@ Bank_Customer_Churn_Analysis/
 <img width="1167" height="487" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/ea931ebe-3404-4368-a999-c8ba8c75b726" />  
 
 ### Excel Dashboard
+<img width="1096" height="539" alt="Screenshot (356)" src="https://github.com/user-attachments/assets/d754c0ba-d984-44cb-88eb-7a0977bc10f1" />
 
 ---
 
